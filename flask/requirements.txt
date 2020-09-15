@@ -1,0 +1,4 @@
+Flask_Cors==3.0.8
+Flask==1.0.2
+uwsgi
+dnspython
